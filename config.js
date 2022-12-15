@@ -15,7 +15,7 @@ var config = {
     ],
  
     imgs: {
-        "傻傻的甜妹": "./imgs/abc.png",
+        "傻甜妹": "./imgs/wangyuanyuan.jpg",
         
     },
     
